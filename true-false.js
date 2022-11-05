@@ -9,3 +9,4 @@ else{
     console.log('Condition is false');
 }
 // Falsy values: 0, "" empty string, variable is undefined, variable is null, var is NaN, var decleared false
+// True values are "0", " ", {}, []
